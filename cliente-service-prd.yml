@@ -1,0 +1,8 @@
+app:
+  message: "Configuração vinda do Config Server"
+  cliente:
+    nome: "Cliente Serviço"
+    descricao: "Serviço responsável por gerenciar clientes"
+    versao: "1.0.0"
+    contato:
+      nome: "Suporte Cliente Serviço"
